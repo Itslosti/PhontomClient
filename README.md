@@ -2,8 +2,6 @@
 
 > The Silent Guardian for Your Messages
 
-![PhantomLog](Screenshot1.png)
-
 A powerful desktop companion for Telegram that keeps a watchful eye on your conversations — recording what disappears, tracking who changes, and letting you reach anyone from one place.
 
 Made by **itslosti** · **PhontomLab**
@@ -12,11 +10,14 @@ Made by **itslosti** · **PhontomLab**
 
 ## 📸 Screenshots
 
-### The Main Interface
-![PhantomLog Dashboard](Screenshot1.png)
+### Sign-In
+![Sign-In](Screenshot1.png)
+
+### Dashboard
+![Dashboard](Screenshot2.png)
 
 ### Built-in Messenger
-![PhantomLog Messenger](Screenshot2.png)
+![Messenger](MSG.png)
 
 ---
 
@@ -41,8 +42,6 @@ Every change is logged in a timeline you can revisit at any time.
 
 ### 💬 Built-in Messenger
 A full messaging interface right inside the app — no need to switch to Telegram. Send and receive messages, browse your chat list, open conversations, and reach anyone by username, phone number, user ID, or `t.me` link.
-
-![Messenger](Screenshot2.png)
 
 ### 🔑 Keyword Alerts
 Set custom keywords (e.g. `urgent`, `meeting`, `address`). Whenever a message containing those words arrives, you get an instant desktop notification.
@@ -85,6 +84,8 @@ That's it. No technical setup required.
 
 ### First Sign-In
 
+When you open PhantomLog for the first time, you'll land on the sign-in screen.
+
 1. Enter your **phone number** (with country code, e.g. `+98 912 345 6789`)
 2. You'll receive a **verification code** from Telegram — enter it
 3. If you have **Two-Factor Authentication** enabled, enter your password
@@ -110,8 +111,6 @@ The app is organized into seven tabs at the top:
 ### **Dashboard**
 Your live control room. See total messages, deletions, edits, a 7-day chart, and a real-time stream of every event as it happens.
 
-![Dashboard](Screenshot1.png)
-
 ### **Messages**
 The built-in messenger.
 - **Search** chats from the sidebar
@@ -119,8 +118,6 @@ The built-in messenger.
 - **Type** in the input box and hit **Enter** (or click **Send**)
 - Click **`+ New`** to start a conversation with any username, phone number, user ID, or `t.me` link
 - Media messages are labeled with clear icons (🖼 Photo, 🎥 Video, 🎤 Voice, 📎 File, 🎨 Sticker)
-
-![Messages](Screenshot2.png)
 
 ### **Contacts**
 A live list of everyone in your Telegram contacts.
